@@ -79,7 +79,7 @@ module.exports = {
 			{
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/dotmote/sapflow/'
+					editUrl: 'https://github.com/dotmote/sapflow-docs/'
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css')
