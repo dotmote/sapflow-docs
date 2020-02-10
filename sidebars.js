@@ -7,7 +7,9 @@
 
 module.exports = {
   someSidebar: {
-    'Docs': ['overview', 'hardware', 'software', 'data-visualization', 'doc1'],
-    'Parts Lists': ['mdx'],
+    'Docs': ['overview', 'hardware', 'software', 'data-visualization'],
+    'Parts Lists': ['sap-flow-gauge-parts-list'],
+    'Build Steps': ['sap-flow-gauge-build-steps'],
+    'Checklists': ['raspberry-pi-setup-checklist', 'd32-pro-setup-checklist']
   },
 };
