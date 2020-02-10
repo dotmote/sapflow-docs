@@ -5,7 +5,7 @@ module.exports = {
 	baseUrl: '/',
 	favicon: 'img/icon.png',
 	organizationName: 'dotmote', // Usually your GitHub org/user name.
-	projectName: 'sapflow', // Usually your repo name.
+	projectName: 'sapflow-docs', // Usually your repo name.
 	themeConfig: {
 		navbar: {
 			title: 'Sapflow',
