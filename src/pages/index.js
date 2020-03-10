@@ -6,6 +6,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import Image from '@theme/IdealImage';
+import sapflowProcess from '../../static/img/sapflow_overview.png';
 
 const features = [
   {
@@ -80,7 +82,7 @@ function Home() {
       </header>
       <main>
         <div className="text--center">
-          <img style={{ maxWidth: 700 }} src={useBaseUrl('img/sapflow_overview.png')} />
+          <Image img={sapflowProcess} />
         </div>
         {/* {features && features.length && (
           <section className={styles.features}>
