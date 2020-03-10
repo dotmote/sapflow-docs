@@ -82,7 +82,7 @@ function Home() {
       </header>
       <main>
         <div className="text--center">
-          <Image img={sapflowProcess} />
+          <Image img={sapflowProcess} style={{ maxWidth: '700px', margin: 'auto' }} />
         </div>
         {/* {features && features.length && (
           <section className={styles.features}>
