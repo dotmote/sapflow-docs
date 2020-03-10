@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'Sapflow',
 	tagline: 'Using the external heat ratio method',
-	url: 'https://dotmotelabs.com',
+	url: 'https://dotmote.github.io/',
 	baseUrl: '/sapflow-docs/',
 	favicon: 'img/icon.png',
 	organizationName: 'dotmote', // Usually your GitHub org/user name.
