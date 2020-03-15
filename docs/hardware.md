@@ -3,15 +3,16 @@ id: hardware
 title: Hardware
 sidebar_label: Hardware
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Sapflow Gauge
 First, you'll need a way to measure and record the temperature at two specific points (equidistant from a central heating element) along the stem of your plant:
 
-![sapflow gauge board](../img/sapflow_gauge.png)
+<img alt="sap flow gauge board" src={useBaseUrl('/img/sapflow_gauge.png')} />
 
-![sapflow gauge 3d](../img/sapflow_gauge_3d.png)
+<img alt="sap flow gauge 3d render" src={useBaseUrl('/img/sapflow_gauge_3d.png')} />
 
-![assembled sapflow gauge](../img/sapflow_gauge_assembled.jpg)
+<img alt="assembled sap flow gauge" src={useBaseUrl('/img/sapflow_gauge_assembled.jpg')} />
 
 To build the gauge, you'll need: (1) the PCB; and (2) the components.
 

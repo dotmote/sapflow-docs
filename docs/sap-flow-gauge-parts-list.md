@@ -3,8 +3,9 @@ id: sap-flow-gauge-parts-list
 title: Sap Flow Gauge Parts List
 sidebar_label: Sap Flow Gauge Parts List
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
-![sapflow gauge 3d](../img/sapflow_gauge_3d.png)
+<img alt="sap flow gauge 3d render" src={useBaseUrl('/img/sapflow_gauge_3d.png')} />
 
 In order to use the gauge, you'll need to:
 1. Build the gauge head; and
